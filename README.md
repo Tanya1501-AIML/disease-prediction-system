@@ -107,8 +107,8 @@ Raw Data → EDA → Preprocessing → Model Training → Evaluation → Hyperpa
 
 ## 👩‍💻 Author
 
-**Sumi**
-MBA (AI/ML) — Manipal University Jaipur
+**Tanya Sharma**
+  B.tech(AI/ML) —GWECA
 
 ---
 
